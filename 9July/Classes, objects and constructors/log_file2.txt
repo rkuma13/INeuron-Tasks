@@ -1,0 +1,57 @@
+INFO 2022-07-11 22:15:39,893 root Institute Affiliate check
+ERROR 2022-07-11 22:15:39,893 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 22:20:38,722 root Institute Affiliate check
+ERROR 2022-07-11 22:20:38,722 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 22:23:40,463 root Institute Affiliate check
+ERROR 2022-07-11 22:23:40,463 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 22:23:49,488 root Institute Affiliate check
+ERROR 2022-07-11 22:23:49,488 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 22:24:17,473 root Institute Affiliate check
+ERROR 2022-07-11 22:24:17,473 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 22:25:09,540 root Institute Affiliate check
+ERROR 2022-07-11 22:25:09,540 root name 'Opened_date' is not defined
+INFO 2022-07-11 22:25:27,013 root Institute Affiliate check
+ERROR 2022-07-11 22:25:27,013 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 22:34:36,886 root Institute Affiliate check
+INFO 2022-07-11 22:40:41,132 root Institute Affiliate check
+ERROR 2022-07-11 22:40:41,132 root log() missing 1 required positional argument: 'method'
+ERROR 2022-07-11 22:52:43,559 root name 's' is not defined
+ERROR 2022-07-11 23:00:06,547 root Institute Affiliate check
+ERROR 2022-07-11 23:00:06,600 root log() missing 1 required positional argument: 'method'
+ERROR 2022-07-11 23:02:52,900 root Institute Affiliate check
+ERROR 2022-07-11 23:02:52,901 root log() missing 1 required positional argument: 'method'
+ERROR 2022-07-11 23:08:22,684 root Starting the affiliation process
+ERROR 2022-07-11 23:08:22,684 root Affiliation verified 
+ERROR 2022-07-11 23:08:22,684 root Institute Affiliate check
+ERROR 2022-07-11 23:08:22,684 root log() missing 1 required positional argument: 'method'
+ERROR 2022-07-11 23:14:58,891 root Starting the affiliation process
+ERROR 2022-07-11 23:14:58,891 root Affiliation verified 
+ERROR 2022-07-11 23:14:58,891 root Institute Affiliate check
+ERROR 2022-07-11 23:14:58,907 root log() missing 1 required positional argument: 'method'
+ERROR 2022-07-11 23:16:58,094 root Starting the affiliation process
+ERROR 2022-07-11 23:16:58,094 root Affiliation verified 
+ERROR 2022-07-11 23:16:58,094 root Institute Affiliate check
+ERROR 2022-07-11 23:16:58,094 root name 'Institute_name' is not defined
+ERROR 2022-07-11 23:20:02,607 root Institute Affiliate check
+ERROR 2022-07-11 23:20:02,607 root name 'Institute_name' is not defined
+ERROR 2022-07-11 23:22:36,803 root Institute Affiliate check
+ERROR 2022-07-11 23:22:36,803 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 23:24:01,689 root Institute Affiliate check
+ERROR 2022-07-11 23:24:01,689 root logrec() missing 1 required positional argument: 'method'
+INFO 2022-07-11 23:25:20,112 root Institute Affiliate check
+ERROR 2022-07-11 23:25:20,112 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 23:30:16,242 root Institute Affiliate check
+ERROR 2022-07-11 23:30:16,242 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 23:31:49,749 root Institute Affiliate check
+ERROR 2022-07-11 23:33:23,117 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-11 23:35:16,976 root Institute Affiliate check
+INFO 2022-07-11 23:43:15,932 root Updating the bank details
+INFO 2022-07-11 23:43:15,948 root Account updated successfully 
+INFO 2022-07-11 23:50:31,358 root Updating the bank details
+INFO 2022-07-11 23:50:31,358 root Account updated successfully 
+INFO 2022-07-12 00:38:04,263 root Updating the bank details
+INFO 2022-07-12 00:38:04,337 root Account updated successfully 
+INFO 2022-07-12 00:44:07,929 root Institute Affiliate check
+INFO 2022-07-12 00:44:07,929 root FOllowing are the details for Institute Affiliation check
+INFO 2022-07-12 00:44:45,843 root Institute Affiliate check
+INFO 2022-07-12 00:44:45,843 root FOllowing are the details for Institute Affiliation check

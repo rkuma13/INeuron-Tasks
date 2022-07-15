@@ -1,0 +1,6 @@
+INFO 2022-07-11 02:59:12,638 root Rajan are new admission in Ineuron under course FSDS BOOTCamp
+INFO 2022-07-11 02:59:54,433 root Rajan are new admission in Ineuron under course FSDS BOOTCamp
+INFO 2022-07-11 03:00:35,507 root Rajan are new admission in Ineuron under course FSDS BOOTCamp
+INFO 2022-07-11 23:24:29,058 root Rajan are new admission in Ineuron under course FSDS BOOTCamp
+INFO 2022-07-11 23:41:13,792 root Updating the bank details
+INFO 2022-07-11 23:41:13,792 root Account updated successfully 
