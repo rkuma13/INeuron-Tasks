@@ -1,0 +1,61 @@
+INFO 2022-07-15 19:20:40,820 root Contrutors created
+ERROR 2022-07-15 19:20:40,845 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-15 19:21:08,081 root Contrutors created
+ERROR 2022-07-15 19:21:08,081 root log() missing 1 required positional argument: 'method'
+INFO 2022-07-15 19:21:39,423 root Contrutors created
+INFO 2022-07-15 19:21:39,423 root age will be calculated
+ERROR 2022-07-15 19:21:39,423 root name 'DOB' is not defined
+INFO 2022-07-15 19:23:22,006 root Contrutors created
+INFO 2022-07-15 19:23:22,006 root age will be calculated
+ERROR 2022-07-15 19:23:22,006 root name 'DOB' is not defined
+INFO 2022-07-15 19:24:21,861 root Construtors created
+INFO 2022-07-15 19:24:21,861 root age will be calculated
+INFO 2022-07-15 19:40:10,649 root Construtors created
+INFO 2022-07-15 19:40:10,649 root age will be calculated
+INFO 2022-07-15 19:42:20,090 root Construtors created
+INFO 2022-07-15 19:42:20,090 root age will be calculated
+INFO 2022-07-15 19:42:20,090 root inheriting the proporties from parent class
+INFO 2022-07-15 19:42:20,090 root Construtors created
+INFO 2022-07-15 19:42:20,090 root constructor for the classe
+INFO 2022-07-15 19:54:02,137 root Construtors created
+INFO 2022-07-15 19:54:02,137 root age will be calculated
+INFO 2022-07-15 19:54:02,137 root inheriting the proporties from parent class
+INFO 2022-07-15 19:54:02,137 root Construtors created
+INFO 2022-07-15 19:54:02,137 root constructor for the classe
+INFO 2022-07-15 19:54:02,137 root inheriting Student class and Ineuron Class
+INFO 2022-07-15 19:55:54,990 root Construtors created
+INFO 2022-07-15 19:55:54,990 root age will be calculated
+INFO 2022-07-15 19:55:54,990 root inheriting the proporties from parent class
+INFO 2022-07-15 19:55:54,991 root Construtors created
+INFO 2022-07-15 19:55:54,991 root constructor for the classe
+INFO 2022-07-15 19:55:54,991 root inheriting Student class and Ineuron Class
+INFO 2022-07-15 19:58:58,859 root Construtors created
+INFO 2022-07-15 19:58:58,859 root age will be calculated
+INFO 2022-07-15 19:58:58,859 root inheriting the proporties from parent class
+INFO 2022-07-15 19:58:58,860 root Construtors created
+INFO 2022-07-15 19:58:58,862 root constructor for the classe
+INFO 2022-07-15 19:58:58,862 root inheriting Student class and Ineuron Class
+INFO 2022-07-15 19:58:58,862 root Construtors created
+INFO 2022-07-15 19:58:58,862 root Detail of the student at Ineuron
+INFO 2022-07-15 19:58:58,863 root age will be calculated
+INFO 2022-07-15 19:58:58,863 root constructor for the classe
+INFO 2022-07-15 20:00:20,229 root Construtors created
+INFO 2022-07-15 20:00:20,229 root age will be calculated
+INFO 2022-07-15 20:00:20,229 root inheriting the proporties from parent class
+INFO 2022-07-15 20:00:20,229 root Construtors created
+INFO 2022-07-15 20:00:20,229 root constructor for the classe
+INFO 2022-07-15 20:00:20,229 root inheriting Student class and Ineuron Class
+INFO 2022-07-15 20:00:20,231 root Construtors created
+INFO 2022-07-15 20:00:20,231 root Detail of the student at Ineuron
+INFO 2022-07-15 20:00:20,231 root age will be calculated
+INFO 2022-07-15 20:00:20,231 root constructor for the classe
+INFO 2022-07-15 20:01:45,301 root Construtors created
+INFO 2022-07-15 20:01:45,301 root age will be calculated
+INFO 2022-07-15 20:01:45,301 root inheriting the proporties from parent class
+INFO 2022-07-15 20:01:45,301 root Construtors created
+INFO 2022-07-15 20:01:45,301 root constructor for the classe
+INFO 2022-07-15 20:01:45,301 root inheriting Student class and Ineuron Class
+INFO 2022-07-15 20:01:45,302 root Construtors created
+INFO 2022-07-15 20:01:45,302 root Detail of the student at Ineuron
+INFO 2022-07-15 20:01:45,302 root age will be calculated
+INFO 2022-07-15 20:01:45,302 root constructor for the classe
